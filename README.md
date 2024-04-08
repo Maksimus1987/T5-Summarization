@@ -1,3 +1,7 @@
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](/README.ru.md)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/italian/simple_automatic_machine_learning_pipeline/blob/main/LICENSE)
+
 # Конвейер машинного обучения
 
 Этот репозиторий содержит набор скриптов на Python и bash, которые используются для создания, предобработки, обучения и тестирования модели машинного обучения для предсказания температуры.
